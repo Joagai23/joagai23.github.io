@@ -5,8 +5,7 @@
 ## 2016
 ### Battle Royale
 
-<img src="images/dummy_thumbnail.jpg" width="240" height="160"/>
-<img src="images/dummy_thumbnail.jpg" width="240" height="160"/>
+<img src="media/royale.gif"/>
 
 ---
 
