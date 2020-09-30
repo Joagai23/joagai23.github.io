@@ -1,5 +1,5 @@
-title: Jorge Aguirregomezcorta Aina # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+header1: Jorge Aguirregomezcorta Aina # your name (or website title) here
+logo: "/images/logo.png" #?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a software engineer and videogame designer student at Universidad San Jorge.
   <br>
