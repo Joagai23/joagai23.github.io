@@ -1,9 +1,11 @@
 title: Jorge Aguirregomezcorta Aina # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Software Engineer + Videogame Designer student at USJ
+  Software Engineer
+  <br>
+  <br>
+  Videogame Designer and Developer
   <br>
   <br>
   <a href="https://www.linkedin.com/in/jorge-aguirregomezcorta-aina-811527197/">View My LinkedIn Profile</a> 
-  <a href="https://github.com/Joagai23">View My GitHub Profile</a>
 theme: jekyll-theme-minimal
