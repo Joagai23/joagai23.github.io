@@ -18,7 +18,7 @@
 
 ## 2018
 ### Pack Like an Egyptian
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="media/egypt.gif"/>
 
 ---
 
