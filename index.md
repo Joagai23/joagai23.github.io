@@ -1,21 +1,21 @@
 ## Portfolio
 ---
-### 2016
+## 2016
 **Battle Royale**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
-### 2017
+## 2017
 **Gluttonous Wompa**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
-### 2018
+## 2018
 **Pack Like an Egyptian**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
-### 2019
+## 2019
 **Gelateria di Giorgio**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -35,7 +35,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
-### Current Projects
+## Current Projects
 **Waterpolo Game**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
