@@ -31,7 +31,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Knights of PI
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="media/KoP.gif"/>
 
 ### Cyberpunk Environment
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
