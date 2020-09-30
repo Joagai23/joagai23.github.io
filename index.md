@@ -34,10 +34,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Plague Knight
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="media/plague.gif"/>
 
 ### Fox AI
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="media/fox.gif"/>
 
 ### FTP System
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -46,7 +46,7 @@
 
 ## Current Projects
 ### Waterpolo Game
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="media/waterpolo.gif"/>
 
 ---
 
