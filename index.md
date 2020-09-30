@@ -31,7 +31,7 @@
 <img src="media/KoP.gif"/>
 
 ### Cyberpunk Environment
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="media/bar.gif"/>
 
 ### Plague Knight
 <img src="media/plague.gif"/>
