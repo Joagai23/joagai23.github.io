@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 ## 2016
-**Battle Royale**
+### Battle Royale
 
 <img src="images/dummy_thumbnail.jpg" width="240" height="160"/>
 <img src="images/dummy_thumbnail.jpg" width="240" height="160"/>
