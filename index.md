@@ -24,7 +24,7 @@
 
 ## 2019
 ### Gelateria di Giorgio
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gelateria.png"/>
 
 ### Knights of PI
 <img src="media/KoP.gif"/>
@@ -39,7 +39,7 @@
 <img src="media/fox.gif"/>
 
 ### FTP System
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="media/ftp.gif"/>
 
 ---
 
