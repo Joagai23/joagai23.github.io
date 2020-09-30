@@ -3,10 +3,14 @@
 ## 2016
 **Battle Royale**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
 ## 2017
 **Gluttonous Wompa**
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
