@@ -6,7 +6,7 @@
 ### Battle Royale
 
 <img src="media/royale.gif"/>
-
+2 player local fighting game developed in GameMaker Studio
 ---
 
 ## 2017
@@ -14,11 +14,14 @@
 
 <img src="media/wompa.gif"/>
 
+Fast paced snake in a round world developed in Unity
 ---
 
 ## 2018
 ### Pack Like an Egyptian
 <img src="media/egypt.gif"/>
+
+- Classic vertical shooter with octodirectional shooting developed in LibGDX
 
 ---
 
