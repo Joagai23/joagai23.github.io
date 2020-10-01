@@ -6,6 +6,7 @@
 ### Battle Royale
 
 <img src="media/royale.gif"/>
+
 - 2 player local fighting game - GameMaker Studio
 
 ---
@@ -41,17 +42,17 @@
 ### Cyberpunk Environment
 <img src="media/bar.gif"/>
 
-- 3 cyberpunk environments fully textured - Maya, Sketchfab
+- Low poly environments textured with color palettes - Maya, Sketchfab
 
 ### Plague Knight
 <img src="media/plague.gif"/>
 
-- Fully modeled 3D character - Maya, ZBrush, Substance Painter, Sketchfab
+- Fully modeled 3D character - Maya, ZBrush, Sub. Painter, Sketchfab
 
 ### Fox AI
 <img src="media/fox.gif"/>
 
-- Simple NPC using planning, pathfinding ans behavior trees - Unity
+- Simple NPC using planning, pathfinding and behavior trees - Unity
 
 ### FTP System
 <img src="media/ftp.gif"/>
