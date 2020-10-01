@@ -6,7 +6,8 @@
 ### Battle Royale
 
 <img src="media/royale.gif"/>
-2 player local fighting game developed in GameMaker Studio
+- 2 player local fighting game - GameMaker Studio
+
 ---
 
 ## 2017
@@ -14,14 +15,15 @@
 
 <img src="media/wompa.gif"/>
 
-Fast paced snake in a round world developed in Unity
+- Fast paced snake in a round world - Unity
+
 ---
 
 ## 2018
 ### Pack Like an Egyptian
 <img src="media/egypt.gif"/>
 
-- Classic vertical shooter with octodirectional shooting developed in LibGDX
+- Classic vertical shooter with octodirectional shooting - LibGDX
 
 ---
 
@@ -29,26 +31,40 @@ Fast paced snake in a round world developed in Unity
 ### Gelateria di Giorgio
 <img src="images/gelateria.png"/>
 
+- Ice cream e-commerce platform - PHP
+
 ### Knights of PI
 <img src="media/KoP.gif"/>
+
+- Procedural question generator math game - Unity
 
 ### Cyberpunk Environment
 <img src="media/bar.gif"/>
 
+- 3 cyberpunk environments fully textured - Maya, Sketchfab
+
 ### Plague Knight
 <img src="media/plague.gif"/>
+
+- Fully modeled 3D character - Maya, ZBrush, Substance Painter, Sketchfab
 
 ### Fox AI
 <img src="media/fox.gif"/>
 
+- Simple NPC using planning, pathfinding ans behavior trees - Unity
+
 ### FTP System
 <img src="media/ftp.gif"/>
+
+- FTP client and server system - Java
 
 ---
 
 ## Current Projects
 ### Waterpolo Game
 <img src="media/waterpolo.gif"/>
+
+- Waterpolo android game - Unity
 
 ---
 
