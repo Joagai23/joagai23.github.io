@@ -66,9 +66,7 @@
 
 ## 2021
 ### Easy Scholar Ranking
-<a href="https://easyscholarrankingusj.azurewebsites.net/">
-  <img src="media/esr.gif"/>
-</a>
+<a href="https://easyscholarrankingusj.azurewebsites.net/"> <img src="media/esr.gif"/> </a>
 
 - Web application to search and rank software investigators - ASP.NET
 
