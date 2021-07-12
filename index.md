@@ -70,9 +70,6 @@
 
 - Web application to search and rank software investigators - ASP.NET
 
----
-
-## Current Projects
 ### Waterpolo Game
 <img src="media/waterpolo.gif"/>
 
