@@ -71,7 +71,7 @@
 - Web application to search and rank software investigators - ASP.NET
 
 ### Waterpolo Game
-<img src="media/waterpolo.gif"/>
+<img src="media/taquigol.gif"/>
 
 - Waterpolo android game - Unity
 
